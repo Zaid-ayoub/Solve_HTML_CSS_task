@@ -1,0 +1,36 @@
+h1 {
+    font-family: fantasy;
+    color: #6c855c;
+    font-size: 70px;
+}
+.c {
+    color:cornflowerblue;
+    font-size: 30px;
+}
+#i {
+    background-color: aqua;
+    color:crimson;
+    font-size: 20px;
+}
+.f{
+    background-color: slategray;
+}
+.c2 {
+    color: red;
+}
+#i2 {
+    color: blue;
+}
+div {
+    background-color: pink;
+}
+
+.s p:nth-child(even) {
+    color: blueviolet;
+    text-align: center;
+    font-size: 23px;
+}
+.s p:nth-child(odd) {
+    text-align: center;
+    font-size: 23px;
+}

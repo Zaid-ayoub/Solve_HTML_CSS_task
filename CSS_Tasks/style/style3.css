@@ -1,0 +1,12 @@
+p {
+    background-color: blue;
+    color: white;
+    width: 600px;
+}
+div {
+    background-image: url("sea.jfif");
+    background-size: 600px ;
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    width: 600px;
+}

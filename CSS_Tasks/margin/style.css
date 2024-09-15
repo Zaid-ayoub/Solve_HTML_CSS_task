@@ -1,0 +1,75 @@
+h1 , h2 {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+ h2{
+    font-size: 25px;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: -35px;
+}
+div.c1{
+    text-align: center;
+    background-color: gray;
+    border-radius: 10px;
+    border: solid;
+    height: 80px;
+}
+img#i1 {
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img#i2 {
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+div.c2{
+    text-align: center;
+    height: 400px ;
+    background-image: url("bg.jfif");
+    border: solid;
+    border-radius: 0px 0px 0px 70px;
+
+}
+
+button.b {
+    background-color: yellow;
+    border: solid white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+button {
+    background-color: yellow;
+    border: solid white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+div.c3 {
+    text-align: center;
+}
+img.i2 {
+    margin-top: 20px;
+    width: 250px;
+    box-shadow: 0 0 30px 15px black;
+    border-radius: 30px;
+}
+img.i3 {
+    border: solid;
+    border-radius: 20px;
+}
+footer {
+    text-align: center;
+    color: gray;
+}

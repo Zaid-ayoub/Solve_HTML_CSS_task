@@ -1,0 +1,25 @@
+h1 {
+
+   font-family: monospace ;
+   background-color: #cd5c5c;
+   text-align: center;
+   color:white;
+   padding: 15px;
+   width: 480;
+}
+div {
+    background-color: #ffe4b5;
+    border:  solid;
+    width: 500px;
+}
+input , textarea{
+    border-color: white;
+    font-size: 18px;
+    margin: 8px;
+    width: 480px;
+}
+#send {
+    background-color: yellow;
+    padding: 10px;
+    width: 480px;
+}
